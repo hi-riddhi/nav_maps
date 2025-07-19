@@ -75,12 +75,12 @@ The ARNav working prototype is implemented as an **Android application** develop
 ![Untitled (2) (1)](https://github.com/Caspian4/ARNav/assets/124158194/c110562b-d870-41c2-ac13-3af3fdbecdad)
 
 2. Open in Unity
-Open the project folder in Unity Hub.
-Make sure ARCore XR Plugin is installed via Unity Package Manager.
+- Open the project folder in Unity Hub.
+- Make sure ARCore XR Plugin is installed via Unity Package Manager.
 
 3. Build for Android
-Set up Android SDK in Unity.
-Build and run the APK on your Android device.
+- Set up Android SDK in Unity.
+- Build and run the APK on your Android device.
 
 ![a](https://github.com/Caspian4/ARNav/assets/124158194/fafdc737-b0ec-4e9a-b539-e19a0d331a5d)
 
